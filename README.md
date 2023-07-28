@@ -22,7 +22,7 @@ Analyse sales data and determine weak areas and opportunities to boost business 
 Python for Data Cleaning, Data Transformation, Data Visualisation and Data Analysis
 
 #### Data Set
-The data set is publicly available on [Kaggle](https://www.kaggle.com/akashkothare/tsf-datasets).
+The data set is publicly available on [Github](https://mv1249.github.io/).
 
 
 
