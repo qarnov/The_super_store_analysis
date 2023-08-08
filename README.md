@@ -1,6 +1,6 @@
-#💡 The Sparks Foundation
-##📚 Data Science and Business Analytics Internship
-###✏️ Exploratory Data Analysis on Super Store
+# 💡 The Sparks Foundation
+## 📚 Data Science and Business Analytics Internship
+### ✏️ Exploratory Data Analysis on Super Store
 The data set is publicly available on [Github](https://mv1249.github.io/).
 This is one of the tasks from the sparks foundations internships, did it to learn and practice more into data analytics.
 
